@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "release_date": "2026-05-20",
+  "download_url": "https://github.com/vankhaiaistudio/VKSTUDIOAPP/releases/latest/download/AIStudio_Setup.exe",
+  "force_update": false,
+  "changelog": [
+    "Bản phát hành đầu tiên của VK Studio App.",
+    "Thêm kiểm tra cập nhật tự động qua GitHub version.txt.",
+    "Khi có bản mới, ứng dụng có thể tải installer và chạy cập nhật tự động."
+  ]
+}
