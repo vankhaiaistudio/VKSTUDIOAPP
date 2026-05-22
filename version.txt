@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "release_date": "2026-05-20",
   "download_url": "https://github.com/vankhaiaistudio/VKSTUDIOAPP/releases/latest/download/AIStudio_Setup.exe",
   "force_update": false,
